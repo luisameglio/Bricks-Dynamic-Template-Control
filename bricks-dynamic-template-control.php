@@ -5,7 +5,6 @@ Description: Applies fallback Bricks templates to selected post types not built 
 Version: 1.2
 Author: <a href="https://luisameglio.com">Luis Ameglio</a>
 Text Domain: bricks-dynamic-template-control
-Domain Path: /languages
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
